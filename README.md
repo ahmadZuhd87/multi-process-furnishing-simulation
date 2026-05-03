@@ -1,5 +1,3 @@
-Here is your **final clean README in one block (copy & paste directly)** 👇
-
 ---
 
 ```markdown
