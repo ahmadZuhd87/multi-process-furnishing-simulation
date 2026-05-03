@@ -1,9 +1,0 @@
-# Home Furnishing Competition – Configuration
-# Lines starting with '#' are comments
-
-NUM_MEMBERS=3          # processes per team (min 2: source + sink)
-NUM_PIECES=1000           # furniture pieces per team
-MIN_DELAY=0.01          # minimum delay in milliseconds
-MAX_DELAY=0.05          # maximum delay in milliseconds
-FATIGUE_FACTOR=0.01      # extra ms per transfer (simulates tiredness)
-WINS_TO_WIN=3         # rounds needed to win the competition
