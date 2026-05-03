@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🏠 Multi-Process Furnishing Competition Simulation
 
